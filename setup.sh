@@ -61,10 +61,6 @@ done
 git config --global user.name "Eduardo Santos"
 git config --global user.email "eduardosantoshf@gmail.com"
 
-# to prevent git asking for ssh key passphrase always, do:
-#eval $(ssh-agent)
-#ssh-add --apple-use-keychain
-
 # zsh and oh-my-zsh
 echo "Adding ZSH"
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -75,6 +71,10 @@ ssh-keygen -t rsa -C "eduardosantoshf@gmail.com"
 
 pbcopy < ~/.ssh/id_rsa.pub
 echo "Copied SSH key to clipboard - You can now add it to Github!"
+
+# to prevent git asking for ssh key passphrase always, do:
+eval $(ssh-agent)
+ssh-add -K ~/.ssh/id_rsa
 
 # Complete
 echo "Installation Complete!"
