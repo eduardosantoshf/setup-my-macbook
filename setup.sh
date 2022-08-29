@@ -60,7 +60,10 @@ done
 # configure git
 git config --global user.name "Eduardo Santos"
 git config --global user.email "eduardosantoshf@gmail.com"
-#gh config set git_protocol "ssh"
+
+# to prevent git asking for ssh key passphrase always, do:
+#eval $(ssh-agent)
+#ssh-add --apple-use-keychain
 
 # zsh and oh-my-zsh
 echo "Adding ZSH"
