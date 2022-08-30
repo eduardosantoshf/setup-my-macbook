@@ -75,6 +75,8 @@ echo "Copied SSH key to clipboard - You can now add it to Github!"
 # to prevent git asking for ssh key passphrase always, do:
 eval $(ssh-agent)
 ssh-add -K ~/.ssh/id_rsa
+echo "Host *
+    UseKeychain yes" >> ~/.ssh/config
 
 # Complete
 echo "Installation Complete!"
