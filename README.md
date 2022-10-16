@@ -55,6 +55,8 @@ Check `System Preferences > Dock & Menu Bar > Sound > Show in Menu Bar **always*
 
 Check `System Preferences > Mission Control > Group windows by application`
 
+Uncheck `System Preferences > Mission Control > Automatically rearrange Spaces based on most recent used`
+
 **Hot Corners:**
 
 - Left Inferior Corner: **Launchpad**
@@ -206,6 +208,7 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - curl
 - tree
 - python@3.10
+- trash
 
 ### Brew Cask
 
