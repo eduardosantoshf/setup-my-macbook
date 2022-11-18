@@ -226,6 +226,7 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - vlc
 - tg-pro
 - spotify
+- teamviewer
 
 ## Apps
 
@@ -307,6 +308,8 @@ YouTube Search Engine Shortcut
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 **Color Theme**
 
