@@ -321,4 +321,4 @@ I use [CleanMyMac X](https://macpaw.com/cleanmymac) to (ironically) clean my mac
 
 ## Dock
 
-![Screenshot 2022-08-29 at 01.33.11.png](images/Screenshot_2022-08-29_at_01.33.11.png)
+![Screenshot 2022-08-29 at 01.33.11.png](images/dock.png)
