@@ -30,7 +30,7 @@ When starting your mac for the first time, you should always check if there are 
 
 ## System Preferences
 
-When configuring a mac, there are also some system preferences I like to change.
+When setting up a mac, there are also some system preferences I like to change.
 
 ### General
 
@@ -280,10 +280,7 @@ These are the apps that I have currently installed on my mac. Whenever I can, I 
 
 ### Brave
 
-<aside>
-⚠️ Para aceder a certos websites (ex. HBO Max) é necessário desativar os shields do Brave nesse website.
-
-</aside>
+⚠️ To access certain websites functionalities (ex. Streaming services), it's necessary to deactivate Brave shields on that websites.
 
 **Extensions**
 
@@ -291,19 +288,17 @@ Here are the chromium extensions that I use:
 
 [AutoHideDownloadsBar](https://chrome.google.com/webstore/detail/autohidedownloadsbar/gkmndgjgpolmikgnipipfekglbbgjcel/related)
 
-Katalon
+[Katalon Recorder (Selenium tests generator)](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid)
 
-FireShot
+[FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
 
-Dark Reader
+[Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 
-Teleparty
+[Teleparty](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa)
 
 **Search Engine Shortcuts**
 
 ![YouTube Search Engine Shortcut](images/youtube.png)
-
-YouTube Search Engine Shortcut
 
 ### VS Code
 
