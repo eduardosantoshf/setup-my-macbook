@@ -36,15 +36,15 @@ When configuring a mac, there are also some system preferences I like to change.
 
 `System Preferences > General > Appearance > Dark`
 
-`System Preferences > General > Prefer tabs > **always** when opening documents`
+`System Preferences > General > Prefer tabs >` **`always`** `when opening documents`
 
 Uncheck `System Preferences > General > Close windows when quitting an app`
 
-`System Preferences > General > Show scroll bars: > **When scrolling**`
+`System Preferences > General > Show scroll bars: >` **`When scrolling`**
 
 ### Dock & Menu Bar
 
-`System Preferences > Dock & Menu Bar > Double-click a window's title bar to **minimize**`
+`System Preferences > Dock & Menu Bar > Double-click a window's title bar to` **`minimize`**
 
 Uncheck `System Preferences > Dock & Menu Bar > Show recent applications in Dock`
 
@@ -56,7 +56,7 @@ Check `System Preferences > Dock & Menu Bar > Wi-Fi > Show in Menu Bar`
 
 Check `System Preferences > Dock & Menu Bar > Bluetooth > Show in Menu Bar`
 
-Check `System Preferences > Dock & Menu Bar > Sound > Show in Menu Bar **always**`
+Check `System Preferences > Dock & Menu Bar > Sound > Show in Menu Bar` **`always`**
 
 ### Mission Control
 
@@ -71,19 +71,19 @@ Uncheck `System Preferences > Mission Control > Automatically rearrange Spaces b
 
 ### Displays
 
-`System Preferences > Displays > Resolution > **Scaled**`
+`System Preferences > Displays > Resolution >` **`Scaled`**
 
-`System Preferences > Displays > Resolution > **More Space**`
+`System Preferences > Displays > Resolution >` **`More Space`**
 
 ### Keyboard
 
 Uncheck `System Preferences > Keyboard > Keyboard > Adjust keyboard brightness in low light`
 
-`System Preferences > Keyboard > Keyboard > Turn keyboard backlight off after **1 min** of inactivity`
+`System Preferences > Keyboard > Keyboard > Turn keyboard backlight off after` **`1 min`** `of inactivity`
 
-`System Preferences > Keyboard > Keyboard > Press fn key to **Show emojis & Symbols**`
+`System Preferences > Keyboard > Keyboard > Press fn key to` **`Show emojis & Symbols`**
 
-`System Preferences > Keyboard > Keyboard > Press and hold fn key to **Show F1, F2, etc. Keys**`
+`System Preferences > Keyboard > Keyboard > Press and hold fn key to` **`Show F1, F2, etc. Keys`**
 
 Uncheck `System Preferences > Keyboard > Text > Correct spelling automatically`
 
@@ -105,17 +105,17 @@ Uncheck **only** `System Preferences > Trackpad > More Gestures > Launchpad`
 
 ### Security & Privacy
 
-`System Preferences > Security & Privacy > General > Require password after **5 seconds** after sleep or screen saver begins`
+`System Preferences > Security & Privacy > General > Require password after` **`5 seconds`** `after sleep or screen saver begins`
 
-`System Preferences > Security & Privacy > Firewall > **Turn On Firewall**`
+`System Preferences > Security & Privacy > Firewall >` **`Turn On Firewall`**
 
 ### Finder
 
-`Preferences > General > New Finder windows show > **Documents**`
+`Preferences > General > New Finder windows show >` **`Documents`**
 
-Check `Preferences > General > **Open folders in tabs instead of new windows**`
+Check `Preferences > General >` **`Open folders in tabs instead of new windows`**
 
-`Preferences > Advanced > When performing a search > **Search the Current Folder**`
+`Preferences > Advanced > When performing a search >` **`Search the Current Folder`**
 
 Show/Hide hidden files in folders: `Command + SHIFT + .`
 
@@ -133,7 +133,7 @@ My setup.sh file can be found at this repo, running the script will:
 
 ### iTerm2
 
-![Screen Shot 2022-08-27 at 14.59.29.png](images/Screen_Shot_2022-08-27_at_14.59.29.png)
+![Screen Shot 2022-08-27 at 14.59.29.png](images/terminal.png)
 
 **Color presets**
 
@@ -141,12 +141,12 @@ I am currently using the [BlulocoDark](https://raw.githubusercontent.com/mbadola
 
 **Configurations**
 
-- Enable usage of `option + command + left/right` or `command + left/right` keyboard shortcuts: `Preferences > Profiles > Keys > Key Mappings > Presets > **Natural Text Editing**`
+- Enable usage of `option + command + left/right` or `command + left/right` keyboard shortcuts: `Preferences > Profiles > Keys > Key Mappings > Presets >` **`Natural Text Editing`**
 - Check `Preferences > Profiles > Session > status bar enabled`
-- `Preferences > Profiles > Terminal > Scrollback lines: 4**000**`
-- `Preferences > General > Terminal > Startup > Window restauration policy: **Use System Window Restauration Setting**`
-- `Preferences > Profiles > General > Working Directory > **Reuse previous session's directory**`
-- `Preferences > Profiles > Text > Cursor > **Vertical bar**`
+- `Preferences > Profiles > Terminal > Scrollback lines:` **`4000`**
+- `Preferences > General > Terminal > Startup > Window restauration policy:` **`Use System Window Restauration Setting`**
+- `Preferences > Profiles > General > Working Directory >` **`Reuse previous session's directory`**
+- `Preferences > Profiles > Text > Cursor >` **`Vertical bar`**
 
 ### Font
 
