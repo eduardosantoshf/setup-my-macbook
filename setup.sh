@@ -51,6 +51,9 @@ homebrew_cask_packages=(
   "vlc"
   "tg-pro"
   "webtorrent"
+  "spotify"
+  "teamviewer"
+  "caffeine"
 )
 
 for homebrew_cask_package in "${homebrew_cask_packages[@]}"; do

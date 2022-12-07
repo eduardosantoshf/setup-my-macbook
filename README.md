@@ -229,9 +229,11 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - iterm2
 - firefox
 - discord
+- slack
 - the-unarchiver
 - vlc
 - tg-pro
+- webtorrent
 - spotify
 - teamviewer
 - caffeine
