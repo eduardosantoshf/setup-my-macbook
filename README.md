@@ -115,6 +115,8 @@ Uncheck **only** `System Preferences > Trackpad > More Gestures > Launchpad`
 
 Check `Preferences > General >` **`Open folders in tabs instead of new windows`**
 
+Check `Preferences > Advanced >` **`Show all filename extensions`**
+
 `Preferences > Advanced > When performing a search >` **`Search the Current Folder`**
 
 Show/Hide hidden files in folders: `Command + SHIFT + .`
