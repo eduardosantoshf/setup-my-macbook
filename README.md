@@ -218,6 +218,7 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - tree
 - python@3.10
 - trash
+- thefuck
 
 ### Brew Cask
 

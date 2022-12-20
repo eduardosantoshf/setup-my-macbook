@@ -26,6 +26,8 @@ homebrew_packages=(
   "curl"
   "tree"
   #"python@3.10"
+  "trash"
+  #"thefuck"
 )
 
 for homebrew_package in "${homebrew_packages[@]}"; do
