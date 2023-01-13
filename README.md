@@ -215,16 +215,14 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - htop
 - wget
 - curl
+- telnet
 - tree
-- python@3.10
 - trash
-- thefuck
 
 ### Brew Cask
 
 - visual-studio-code
 - brave-browser
-- intellij-idea
 - docker
 - rectangle
 - postman
@@ -232,7 +230,6 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - iterm2
 - firefox
 - discord
-- slack
 - the-unarchiver
 - vlc
 - tg-pro
@@ -283,6 +280,7 @@ These are the apps that I have currently installed on my mac. Whenever I can, I 
 - Cent
 - Notion
 - DevToys
+- Todoist
 
 ### Brave
 
@@ -313,6 +311,7 @@ Here are the chromium extensions that I use:
 - [Live-Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) (theme)
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) (theme)
+- [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) (theme)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)

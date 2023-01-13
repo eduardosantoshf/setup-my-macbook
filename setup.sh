@@ -24,10 +24,9 @@ homebrew_packages=(
   "htop"
   "wget"
   "curl"
+  "telnet"
   "tree"
-  #"python@3.10"
   "trash"
-  #"thefuck"
 )
 
 for homebrew_package in "${homebrew_packages[@]}"; do
@@ -40,7 +39,6 @@ echo "Installing Homebrew Cask Packages..."
 homebrew_cask_packages=(
   "visual-studio-code"
   "brave-browser"
-  #"intellij-idea"
   "docker"
   "rectangle"
   "postman"
@@ -48,7 +46,6 @@ homebrew_cask_packages=(
   "iterm2"
   "firefox"
   "discord"
-  #"slack"
   "the-unarchiver"
   "vlc"
   "tg-pro"
