@@ -23,6 +23,7 @@ This repo will be used to configure a MacBook from scratch, it can serve as a gu
 - HomeBrew
 - Apps
 - Dock
+- Touch Bar not working bug
 
 ## macOS Updates
 
@@ -329,3 +330,9 @@ I use [CleanMyMac X](https://macpaw.com/cleanmymac) to (ironically) clean my mac
 ## Dock
 
 ![Screenshot 2022-08-29 at 01.33.11.png](images/dock.png)
+
+## Touch Bar not working bug
+
+Sometimes, if the touch bar stops working, restarting it may solve the problem:
+
+	sudo pkill TouchBarServer
