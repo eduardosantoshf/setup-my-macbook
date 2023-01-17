@@ -27,6 +27,7 @@ homebrew_packages=(
   "telnet"
   "tree"
   "trash"
+  #"pdfgrep"
 )
 
 for homebrew_package in "${homebrew_packages[@]}"; do

@@ -219,6 +219,7 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - telnet
 - tree
 - trash
+- pdfgrep
 
 ### Brew Cask
 
