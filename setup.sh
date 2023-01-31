@@ -28,6 +28,7 @@ homebrew_packages=(
   "tree"
   "trash"
   #"pdfgrep"
+  "make"
 )
 
 for homebrew_package in "${homebrew_packages[@]}"; do
