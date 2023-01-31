@@ -220,6 +220,7 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - tree
 - trash
 - pdfgrep
+- make
 
 ### Brew Cask
 
