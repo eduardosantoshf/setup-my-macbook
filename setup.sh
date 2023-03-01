@@ -56,6 +56,7 @@ homebrew_cask_packages=(
   "teamviewer"
   "caffeine"
   "stats"
+  "alfred"
 )
 
 for homebrew_cask_package in "${homebrew_cask_packages[@]}"; do
