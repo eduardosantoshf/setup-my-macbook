@@ -322,6 +322,7 @@ Here are the chromium extensions that I use:
 - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) 
 
 **Color Theme**
 
