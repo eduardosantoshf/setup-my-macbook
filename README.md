@@ -242,6 +242,8 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - caffeine
 - stats
 - alfred
+- stremio
+- kap
 
 ## Apps
 
