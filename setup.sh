@@ -60,6 +60,7 @@ homebrew_cask_packages=(
   "stremio"
   "kap"
   "maccy"
+  "iina"
 )
 
 for homebrew_cask_package in "${homebrew_cask_packages[@]}"; do
