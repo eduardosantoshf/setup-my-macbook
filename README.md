@@ -245,6 +245,7 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - stremio
 - kap
 - maccy
+- iina
 
 ## Apps
 
