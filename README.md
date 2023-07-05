@@ -47,6 +47,8 @@ Uncheck `System Preferences > General > Close windows when quitting an app`
 
 `System Preferences > Dock & Menu Bar > Double-click a window's title bar to` **`minimize`**
 
+`System Preferences - Dock & Menu Bar - Clock - Show Date` **`Always`**
+
 Uncheck `System Preferences > Dock & Menu Bar > Show recent applications in Dock`
 
 Check `System Preferences > Dock & Menu Bar > Now Playing > Show in Menu Bar`
