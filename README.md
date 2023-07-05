@@ -222,6 +222,7 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - tree
 - trash
 - pdfgrep
+- make
 
 ### Brew Cask
 
@@ -241,6 +242,12 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - spotify
 - teamviewer
 - caffeine
+- stats
+- alfred
+- stremio
+- kap
+- maccy
+- iina
 
 ## Apps
 
@@ -321,6 +328,8 @@ Here are the chromium extensions that I use:
 - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 
 **Color Theme**
 

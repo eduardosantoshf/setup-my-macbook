@@ -28,6 +28,7 @@ homebrew_packages=(
   "tree"
   "trash"
   #"pdfgrep"
+  "make"
 )
 
 for homebrew_package in "${homebrew_packages[@]}"; do
@@ -54,6 +55,12 @@ homebrew_cask_packages=(
   "spotify"
   "teamviewer"
   "caffeine"
+  "stats"
+  "alfred"
+  "stremio"
+  "kap"
+  "maccy"
+  "iina"
 )
 
 for homebrew_cask_package in "${homebrew_cask_packages[@]}"; do
