@@ -29,6 +29,7 @@ homebrew_packages=(
   "trash"
   #"pdfgrep"
   "make"
+  "screen"
 )
 
 for homebrew_package in "${homebrew_packages[@]}"; do
