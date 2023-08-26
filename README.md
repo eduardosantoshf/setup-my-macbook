@@ -124,6 +124,10 @@ Check `Preferences > Advanced >` **`Show all filename extensions`**
 
 Show/Hide hidden files in folders: `Command + SHIFT + .`
 
+### Sound
+
+Uncheck `Preferences > Sound > Sound Effects > Play sound on startup`
+
 ## Terminal
 
 ### Setup Script
