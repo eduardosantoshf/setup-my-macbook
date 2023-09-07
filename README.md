@@ -124,6 +124,10 @@ Check `Preferences > Advanced >` **`Show all filename extensions`**
 
 Show/Hide hidden files in folders: `Command + Shift + .`
 
+### Sound
+
+Uncheck `Preferences > Sound > Sound Effects > Play sound on startup`
+
 ## Mac Commands and Shortcuts
 
 On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are the main combinations that I use:
@@ -145,10 +149,6 @@ On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are
 * **()**: Shift + 8/9
 * **Spotlight Search** (currently I'm using Alfred 5 as a replacement): CMD + Space bar
 * **Take Screenshot**: CMD + Shift + 5
-
-### Sound
-
-Uncheck `Preferences > Sound > Sound Effects > Play sound on startup`
 
 ## Terminal
 
