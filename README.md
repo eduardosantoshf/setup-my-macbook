@@ -20,6 +20,7 @@ This repo will be used to configure a MacBook from scratch, it can serve as a gu
 
 - macOS Updates
 - System Preferences
+- Mac Commands and Shortcuts
 - Terminal
 - Shell
 - HomeBrew
