@@ -122,7 +122,29 @@ Check `Preferences > Advanced >` **`Show all filename extensions`**
 
 `Preferences > Advanced > When performing a search >` **`Search the Current Folder`**
 
-Show/Hide hidden files in folders: `Command + SHIFT + .`
+Show/Hide hidden files in folders: `Command + Shift + .`
+
+## Mac Commands and Shortcuts
+
+On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are the main combinations that I use:
+* @: Option + 2
+* Change current app: CMD + Tab
+* Change tab: CMD + Option + Left/Right Arrow
+* Clear cache: CMD + Shift + R
+* Close app: CMD + Q
+* Close window: Shift + CMD + W
+* Enter full screen mode: Control + CMD + F
+* Force quit app: CMD + Option + Esc (use only when an app doesn't respond)
+* Go forward/backward word by word: Option + Left/Right Arrow
+* Go to the beginning/end of a line: CMD + Left/Right Arrow
+* Hide app: CMD + H
+* Minimize app: CMD + M
+* New tab: CMD + T
+* New window: CMD + N
+* {}: Shift + Option + 8/9
+* (): Shift + 8/9
+* Spotlight Search (currently I'm using Alfred 5 as a replacement): CMD + Space bar
+* Take Screenshot: CMD + Shift + 5
 
 ## Terminal
 
