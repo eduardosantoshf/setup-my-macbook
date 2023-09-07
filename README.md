@@ -1,8 +1,10 @@
 # Setup My MacBook
 
-This repo will be used to configure a MacBook from scratch, it can serve as a guide for a brand new computer or after a factory reset.
+This repo will be used to configure a MacBook from scratch, it can serve as a guide for a brand-new computer or after a factory reset.
 
 ℹ️ [Reset MacBook](https://9to5mac.com/2022/01/10/how-to-factory-reset-your-macbook-and-other-macs/)
+
+> **_NOTE:_**  This repo was made for the macOS Monterey, it may not work with other macOS versions.
 
 ## MacBook Specifications
 
