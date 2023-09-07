@@ -146,6 +146,10 @@ On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are
 * Spotlight Search (currently I'm using Alfred 5 as a replacement): CMD + Space bar
 * Take Screenshot: CMD + Shift + 5
 
+### Sound
+
+Uncheck `Preferences > Sound > Sound Effects > Play sound on startup`
+
 ## Terminal
 
 ### Setup Script
@@ -245,6 +249,7 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - trash
 - pdfgrep
 - make
+- screen
 
 ### Brew Cask
 
@@ -335,7 +340,14 @@ Here are the chromium extensions that I use:
 
 **Search Engine Shortcuts**
 
-![YouTube Search Engine Shortcut](images/youtube.png)
+On Brave, go to `Settings > Search engine > Manage search engines and site search > Site search`, and add the desired shortcuts:
+
+| Site or page    | Shortcut | Search query (URL with %s in place of query)    |
+|-----------------|----------|-------------------------------------------------|
+| YouTube         | -y       | https://www.youtube.com/results?search_query=%s |
+| Rotten Tomatoes | -r       | https://www.rottentomatoes.com/search?search=%s |
+| Goodreads       | -g       | https://www.goodreads.com/search?q=%s&qid=      |
+
 
 ### VS Code
 
