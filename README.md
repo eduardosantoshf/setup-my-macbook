@@ -154,7 +154,7 @@ On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are
 
 ### Setup Script
 
-My setup.sh file can be found at this repo, running the script will:
+My setup.sh file can be found at the root of this repo, running the script will:
 
 - Install HomeBrew
 - Install brew formul*æ*s and casks that I use
