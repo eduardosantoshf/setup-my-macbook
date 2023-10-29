@@ -152,6 +152,7 @@ On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are
 * **()**: Shift + 8/9
 * **Spotlight Search** (currently I'm using Alfred 5 as a replacement): CMD + Space bar
 * **Take Screenshot**: CMD + Shift + 5
+* **Change desktop window**: Control + Left/Right Arrow
 
 ## Terminal
 
