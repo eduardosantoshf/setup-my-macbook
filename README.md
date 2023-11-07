@@ -171,11 +171,15 @@ My setup.sh file can be found at the root of this repo, running the script will:
 
 ### iTerm2
 
+My iTerm2 preferences file can be found [here](https://github.com/eduardosantoshf/my-configs-and-dotfiles/blob/main/configs/iTerm2/com.googlecode.iterm2.plist).
+
 ![Screen Shot 2022-08-27 at 14.59.29.png](images/terminal.png)
 
 **Color presets**
 
 I am currently using the [BlulocoDark](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/BlulocoDark.itermcolors) color preset.
+
+All my iTerm2 color presets can be found [here](https://github.com/eduardosantoshf/my-configs-and-dotfiles/tree/main/configs/iTerm2/iTerm2ColorPresets).
 
 **Configurations**
 
@@ -185,6 +189,7 @@ I am currently using the [BlulocoDark](https://raw.githubusercontent.com/mbadola
 - `Preferences > General > Terminal > Startup > Window restauration policy:` **`Use System Window Restauration Setting`**
 - `Preferences > Profiles > General > Working Directory >` **`Reuse previous session's directory`**
 - `Preferences > Profiles > Text > Cursor >` **`Vertical bar`**
+- Check `View > Show Tabs in Fullscreen` 
 
 ### Font
 
@@ -357,6 +362,8 @@ On Brave, go to `Settings > Search engine > Manage search engines and site searc
 
 
 ### VS Code
+
+My Visual Studio Code preferences file can be found [here](https://github.com/eduardosantoshf/my-configs-and-dotfiles/blob/main/configs/vscode/settings.json).
 
 **Extensions**
 
