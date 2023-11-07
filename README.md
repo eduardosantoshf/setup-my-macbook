@@ -155,6 +155,7 @@ On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are
 * **Screenshot entire screen**: CMD + Shift + 3
 * **Screenshot separate app**: CMD + Shift + 4 + Space
 * **Screenshot selected area**: CMD + Shift + 4 + Click & Hold & Drag Mouse
+* **Change desktop window**: Control + Left/Right Arrow
 
 ## Terminal
 
