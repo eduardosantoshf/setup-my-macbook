@@ -288,6 +288,7 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - maccy
 - iina
 - whatsapp
+- adobe-acrobat-reader
 
 ## Apps
 
