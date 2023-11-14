@@ -63,6 +63,7 @@ homebrew_cask_packages=(
   "maccy"
   "iina"
   "whatsapp"
+  "adobe-acrobat-reader"
 )
 
 for homebrew_cask_package in "${homebrew_cask_packages[@]}"; do
