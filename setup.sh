@@ -64,6 +64,8 @@ homebrew_cask_packages=(
   "iina"
   "whatsapp"
   "adobe-acrobat-reader"
+  "monitorcontrol"
+  "macs-fan-control"
 )
 
 for homebrew_cask_package in "${homebrew_cask_packages[@]}"; do
