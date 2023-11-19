@@ -290,6 +290,8 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - iina
 - whatsapp
 - adobe-acrobat-reader
+- monitorcontrol
+- macs-fan-control
 
 ## Apps
 
