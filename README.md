@@ -156,6 +156,7 @@ On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are
 * **Screenshot separate app**: CMD + Shift + 4 + Space
 * **Screenshot selected area**: CMD + Shift + 4 + Click & Hold & Drag Mouse
 * **Change desktop window**: Control + Left/Right Arrow
+* **Go to Folder window**: CMD + Shift + G
 
 ## Terminal
 
@@ -287,6 +288,10 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - kap
 - maccy
 - iina
+- whatsapp
+- adobe-acrobat-reader
+- monitorcontrol
+- macs-fan-control
 
 ## Apps
 
