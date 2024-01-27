@@ -20,7 +20,7 @@ This repo will be used to configure a MacBook from scratch, it can serve as a gu
 
 - macOS Updates
 - System Preferences
-- Mac Commands and Shortcuts
+- Commands and Shortcuts
 - Terminal
 - Shell
 - HomeBrew
@@ -131,7 +131,9 @@ Show/Hide hidden files in folders: `Command + Shift + .`
 
 Uncheck `Preferences > Sound > Sound Effects > Play sound on startup`
 
-## Mac Commands and Shortcuts
+## Commands and Shortcuts
+
+### Mac
 
 On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are the main combinations that I use:
 * **@**: Option + 2
@@ -157,6 +159,10 @@ On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are
 * **Screenshot selected area**: CMD + Shift + 4 + Click & Hold & Drag Mouse
 * **Change desktop window**: Control + Left/Right Arrow
 * **Go to Folder window**: CMD + Shift + G
+
+### Brave Browser
+
+* **Show tabs in fullscreen mode**: CMD + SHIFT + F
 
 ## Terminal
 
