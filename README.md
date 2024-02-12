@@ -370,6 +370,7 @@ On Brave, go to `Settings > Search engine > Manage search engines and site searc
 | YouTube         | -y       | https://www.youtube.com/results?search_query=%s |
 | Rotten Tomatoes | -r       | https://www.rottentomatoes.com/search?search=%s |
 | Goodreads       | -g       | https://www.goodreads.com/search?q=%s&qid=      |
+| Wook            | -w       | https://www.wook.pt/pesquisa?keyword=%s         |
 
 
 ### VS Code
