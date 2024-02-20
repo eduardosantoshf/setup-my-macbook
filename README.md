@@ -365,12 +365,13 @@ Here are the chromium extensions that I use:
 
 On Brave, go to `Settings > Search engine > Manage search engines and site search > Site search`, and add the desired shortcuts:
 
-| Site or page    | Shortcut | Search query (URL with %s in place of query)    |
-|-----------------|----------|-------------------------------------------------|
-| YouTube         | -y       | https://www.youtube.com/results?search_query=%s |
-| Rotten Tomatoes | -r       | https://www.rottentomatoes.com/search?search=%s |
-| Goodreads       | -g       | https://www.goodreads.com/search?q=%s&qid=      |
-| Wook            | -w       | https://www.wook.pt/pesquisa?keyword=%s         |
+| Site or page    | Shortcut | Search query (URL with %s in place of query)                                  |
+|-----------------|----------|-------------------------------------------------------------------------------|
+| YouTube         | -y       | https://www.youtube.com/results?search_query=%s                               |
+| Rotten Tomatoes | -r       | https://www.rottentomatoes.com/search?search=%s                               |
+| Goodreads       | -g       | https://www.goodreads.com/search?q=%s&qid=                                    |
+| Wook            | -w       | https://www.wook.pt/pesquisa?keyword=%s                                       |
+| Fnac            | -f       | https://www.fnac.pt/SearchResult/ResultList.aspx?Search=%s&sft=1&sa=0         |
 
 
 ### VS Code
