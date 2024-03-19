@@ -164,6 +164,10 @@ On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are
 
 * **Show tabs in fullscreen mode**: CMD + SHIFT + F
 
+### Visual Studio Code
+
+* **Show/hide terminal**: CMD + J
+
 ## Terminal
 
 ### Setup Script
