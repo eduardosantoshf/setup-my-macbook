@@ -395,6 +395,14 @@ My Visual Studio Code preferences file can be found [here](https://github.com/ed
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [VSCodeFileHeader](https://marketplace.visualstudio.com/items?itemName=jankincai.vscodefileheader)
+- [Save as Root in Remote - SSH](https://marketplace.visualstudio.com/items?itemName=yy0931.save-as-root)
+- [Grammarly](https://marketplace.visualstudio.com/items?itemName=znck.grammarly)
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [Diff](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-diff)
+- [Copy On Select](https://marketplace.visualstudio.com/items?itemName=dinhani.copy-on-select)
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 
 **Color Theme**
