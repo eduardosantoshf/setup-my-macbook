@@ -407,7 +407,7 @@ My Visual Studio Code preferences file can be found [here](https://github.com/ed
 
 **Color Theme**
 
-Currently using **Github Dark Dimmed** color theme.
+Currently using **One Dark Pro Darker** color theme
 
 ### Clean My Mac X
 
