@@ -137,6 +137,7 @@ Uncheck `Preferences > Sound > Sound Effects > Play sound on startup`
 
 On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are the main combinations that I use:
 * **@**: Option + 2
+* **–** (em dash): Option + Shift + dash (-)
 * **Change current app**: CMD + Tab
 * **Change tab**: CMD + Option + Left/Right Arrow
 * **Clear cache** (in browser): CMD + Shift + R
