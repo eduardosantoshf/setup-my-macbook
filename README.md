@@ -175,8 +175,8 @@ On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are
 
 My setup.sh file can be found at the root of this repo, running the script will:
 
-- Install Home
-- Install  formul*æ*s and casks that I use
+- Install Homebrew
+- Install brew formulæs and casks that I use
 - Configure Git
 - Installing Oh My Zsh
 - Create a SSH key to be added to GitHub and add it to the Mac’s Keychain
