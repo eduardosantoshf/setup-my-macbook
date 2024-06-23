@@ -380,7 +380,6 @@ On Brave, go to `Settings > Search engine > Manage search engines and site searc
 | Rotten Tomatoes | -r       | https://www.rottentomatoes.com/search?search=%s                               |
 | Goodreads       | -g       | https://www.goodreads.com/search?q=%s&qid=                                    |
 | Wook            | -w       | https://www.wook.pt/pesquisa?keyword=%s                                       |
-| Fnac            | -f       | https://www.fnac.pt/SearchResult/ResultList.aspx?Search=%s&sft=1&sa=0         |
 | IMDb            | -i       | https://www.imdb.com/find/?q=%s&ref_=nv_sr_sm                                 |
 
 
