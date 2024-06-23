@@ -23,7 +23,7 @@ This repo will be used to configure a MacBook from scratch, it can serve as a gu
 - Commands and Shortcuts
 - Terminal
 - Shell
-- HomeBrew
+- Homebrew
 - Apps
 - Dock
 - Touch Bar not working bug
@@ -244,11 +244,11 @@ vim ~/.vimrc
 
 ****[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)****
 
-## HomeBrew
+## Homebrew
 
-[HomeBrew](https://brew.sh/) is a free and open-source software package management system that simplifies the installation of software on Apple's operating system, macOS, as well as Linux. 
+[Homebrew](https://brew.sh/) is a free and open-source software package management system that simplifies the installation of software on Apple's operating system, macOS, as well as Linux. 
 
-Before you install HomeBrew though you need to install the xcode command line utilities:
+Before you install Homebrew though you need to install the xcode command line utilities:
 
 ```bash
 xcode-select --install
@@ -307,7 +307,7 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 
 ## Apps
 
-These are the apps that I have currently installed on my mac. Whenever I can, I will install these apps from HomeBrew.
+These are the apps that I have currently installed on my mac. Whenever I can, I will install these apps from Homebrew.
 
 - [Endpoint Security VPN](https://supportcenter.checkpoint.com/supportcenter/portal/user/anon/page/default.psml/media-type/html?action=portlets.DCFileAction&eventSubmit_doGetdcdetails=&fileid=123070)
 - Spotify
