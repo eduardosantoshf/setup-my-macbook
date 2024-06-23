@@ -175,8 +175,8 @@ On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are
 
 My setup.sh file can be found at the root of this repo, running the script will:
 
-- Install HomeBrew
-- Install brew formul*æ*s and casks that I use
+- Install Home
+- Install  formul*æ*s and casks that I use
 - Configure Git
 - Installing Oh My Zsh
 - Create a SSH key to be added to GitHub and add it to the Mac’s Keychain
@@ -273,6 +273,9 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - trash
 - pdfgrep
 - make
+- screen
+- iperf3
+- pyenv
 - screen
 
 ### Brew Cask
@@ -406,18 +409,15 @@ My Visual Studio Code preferences file can be found [here](https://github.com/ed
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+- [Restore Terminals](https://marketplace.visualstudio.com/items?itemName=EthanSK.restore-terminals)
 
 **Color Theme**
 
-Currently using **One Dark Pro Darker** color theme
-
-### Clean My Mac X
-
-I use [CleanMyMac X](https://macpaw.com/cleanmymac) to (ironically) clean my mac from time to time. It is a good app uninstaller as well.
+Currently using **One Dark Pro Darker** color theme.
 
 ## Dock
 
-![Screenshot 2022-08-29 at 01.33.11.png](images/dock.png)
+![Dock](images/dock.png)
 
 ## Touch Bar not working bug
 
