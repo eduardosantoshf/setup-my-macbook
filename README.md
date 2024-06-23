@@ -153,7 +153,7 @@ On the Mac, the "command" key (⌘) replaces the "ctrl" key in Windows. Here are
 * **New window**: CMD + N
 * **{}**: Shift + Option + 8/9
 * **()**: Shift + 8/9
-* **Spotlight Search** (currently I'm using Alfred 5 as a replacement): CMD + Space bar
+* **Spotlight Search** (currently I'm using [Raycast](https://www.raycast.com/) as a replacement): CMD + Space bar (currently using CMD + \)
 * **Take Screenshot**: CMD + Shift + 5
 * **Screenshot entire screen**: CMD + Shift + 3
 * **Screenshot separate app**: CMD + Shift + 4 + Space
@@ -292,17 +292,15 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - webtorrent
 - spotify
 - teamviewer
-- caffeine
 - stats
-- alfred
 - stremio
 - kap
-- maccy
 - iina
 - whatsapp
 - adobe-acrobat-reader
-- monitorcontrol
 - macs-fan-control
+- gray
+- raycast
 
 ## Apps
 
@@ -321,10 +319,8 @@ These are the apps that I have currently installed on my mac. Whenever I can, I 
 - Discord
 - Messenger
 - iTerm2
-- Parcel
 - TeamViewer
-- Office (Word, PowerPoint, Excel) - honestly, google docs serves perfectly, not installing those anymore
-- Microsoft Teams (infelizmente)
+- Office (Word, PowerPoint, Excel)
 - Brave Browser
 - Postman
 - Zoom
@@ -339,14 +335,13 @@ These are the apps that I have currently installed on my mac. Whenever I can, I 
 - Spark
 - OneDrive
 - Bitwarden
-- IntelliJ IDEA
 - WebTorrent
 - Firefox
 - Codye
-- Cent
 - Notion
 - DevToys
-- Todoist
+- Gray
+- Amphetamine
 
 ### Brave
 
@@ -358,13 +353,19 @@ Here are the chromium extensions that I use:
 
 [AutoHideDownloadsBar](https://chrome.google.com/webstore/detail/autohidedownloadsbar/gkmndgjgpolmikgnipipfekglbbgjcel/related)
 
-[Katalon Recorder (Selenium tests generator)](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid)
-
 [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
 
 [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 
-[Teleparty](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa)
+[I still don't care about cookies](https://chromewebstore.google.com/detail/edibdbjcniadpccecjdfdjjppcpchdlm?hl=en)
+
+[Bitwarden Password Manager](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb)
+
+[Grammarly: AI Writing and Grammar Checker App](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
+
+[Auto Refresh Plus | Page Monitor](https://chromewebstore.google.com/detail/auto-refresh-plus-page-mo/hgeljhfekpckiiplhkigfehkdpldcggm?hl=en)
+
+[AdBlock — block ads across the web](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)
 
 **Search Engine Shortcuts**
 
