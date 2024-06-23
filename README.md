@@ -342,7 +342,6 @@ These are the apps that I have currently installed on my mac. Whenever I can, I 
 - Firefox
 - Codye
 - Notion
-- DevToys
 - Gray
 - Amphetamine
 
@@ -350,7 +349,7 @@ These are the apps that I have currently installed on my mac. Whenever I can, I 
 
 ⚠️ To access certain websites functionalities (ex. Streaming services), it's necessary to deactivate Brave shields on that websites.
 
-**Extensions**
+#### Extensions
 
 Here are the chromium extensions that I use:
 
@@ -370,7 +369,7 @@ Here are the chromium extensions that I use:
 
 [AdBlock — block ads across the web](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)
 
-**Search Engine Shortcuts**
+#### Search Engine Shortcuts
 
 On Brave, go to `Settings > Search engine > Manage search engines and site search > Site search`, and add the desired shortcuts:
 
@@ -387,7 +386,7 @@ On Brave, go to `Settings > Search engine > Manage search engines and site searc
 
 My Visual Studio Code preferences file can be found [here](https://github.com/eduardosantoshf/my-configs-and-dotfiles/blob/main/configs/vscode/settings.json).
 
-**Extensions**
+#### Extensions
 
 - [Live-Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) (theme)
@@ -410,9 +409,47 @@ My Visual Studio Code preferences file can be found [here](https://github.com/ed
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 - [Restore Terminals](https://marketplace.visualstudio.com/items?itemName=EthanSK.restore-terminals)
 
-**Color Theme**
+#### Color Theme
 
 Currently using **One Dark Pro Darker** color theme.
+
+### Raycast
+
+[Raycast](https://www.raycast.com/) is an application launcher and productivity software developed for macOS. It offers fast access to applications, dictionaries, files, text snippets, clipboard, and more. Raycast is an alternative to the macOS's built-in Spotlight function, with a richer interface providing additional ways to display varied content.
+
+#### Preferences
+
+My Raycast preferences file can be found [here](https://github.com/eduardosantoshf/my-configs-and-dotfiles/tree/main/configs/Raycast).
+
+#### Built-in functions
+
+Raycast comes with many built-in features that can have a shortcut or an alias assigned, most notably:
+
+- Application search
+- File search
+- Clipboard history
+- Floating notes
+- Calculator
+- Changing volume, brightness, hibernating
+- Word definitions
+- Window management
+- Snippets and text expansion
+- Access to calendar events
+- Quick access to ChatGPT (paid feature)
+
+#### Extensibility
+
+While Raycast itself is a closed-source application, it includes a built-in store that offers open-source extensions to extend its functionality. The current features I'm using are:
+
+- [Year in Progress](https://www.raycast.com/thomas/year-in-progress)
+- [Brew](https://www.raycast.com/nhojb/brew)
+- [Google Translate](https://www.raycast.com/gebeto/translate)
+- [Brave](https://www.raycast.com/ron-myers/brave)
+- [Amphetamine](https://www.raycast.com/gstvds/amphetamine)
+- [Format JSON](https://www.raycast.com/destiner/json-format)
+- [GitHub](https://www.raycast.com/raycast/github)
+- [Quit Applications](https://www.raycast.com/mackopes/quit-applications)
+- [Installed Extensions](https://www.raycast.com/pernielsentikaer/installed-extensions)
 
 ## Dock
 
