@@ -127,6 +127,8 @@ Check `Preferences > Advanced >` **`Show all filename extensions`**
 
 Show/Hide hidden files in folders: `Command + Shift + .`
 
+Show Path Bar: `Option + Command + P`
+
 ### Sound
 
 Uncheck `Preferences > Sound > Sound Effects > Play sound on startup`
