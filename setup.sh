@@ -87,7 +87,7 @@ ssh-keygen -t rsa -C "eduardosantoshf@gmail.com"
 pbcopy < ~/.ssh/id_rsa.pub
 echo "Copied SSH key to clipboard - You can now add it to Github!"
 
-# to prevent git asking for ssh key passphrase always, do:
+# to prevent git from always asking for an ssh key passphrase, run:
 eval $(ssh-agent)
 ssh-add -K ~/.ssh/id_rsa
 echo "Host *
