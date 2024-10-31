@@ -4,7 +4,7 @@ This repo is used to configure a MacBook from scratch. It can serve as a guide f
 
 ℹ️ [Reset MacBook](https://9to5mac.com/2022/01/10/how-to-factory-reset-your-macbook-and-other-macs/)
 
-> **_NOTE:_**  These steps were made for macOS Monterey, it may not work with other macOS versions.
+> **_NOTE:_**  These steps were made for macOS Sequoia, it may not work with other macOS versions.
 
 ## MacBook Specifications
 
@@ -15,18 +15,6 @@ This repo is used to configure a MacBook from scratch. It can serve as a guide f
 **Memory**: 16 GB
 
 **Storage**: 256 GB
-
-## Table of Contents
-
-- macOS Updates
-- System Preferences
-- Commands and Shortcuts
-- Terminal
-- Shell
-- Homebrew
-- Apps
-- Dock
-- Touch Bar not working bug
 
 ## macOS Updates
 
