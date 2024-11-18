@@ -62,8 +62,8 @@ echo "Adding ZSH"
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 # configure git
-git config --global user.name "Eduardo Santos"
-git config --global user.email "eduardosantoshf@gmail.com"
+git config --global user.name "<github_username>"
+git config --global user.email "<github_email>"
 
 # Generate SSH key
 echo "Generating SSH keys..."
