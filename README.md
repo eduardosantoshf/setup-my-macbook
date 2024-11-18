@@ -81,10 +81,6 @@ Select `Groupd windows by application`
 - Left Inferior Corner: **Launchpad**
 - Right Inferior Corner: **Lock Screen**
 
-
-
-####
-
 ### Sound
 
 #### Sound Effects
@@ -93,7 +89,7 @@ Unselect `Play sound on startup`
 
 ### Lock Screen
 
-Select `Start Screen Saver when inactive >` **`For 10 minutes`**
+Select `Start Screen Saver when inactive >` **`For 5 minutes`**
 
 Select `Turn display off on battery when inactive >` **`For 2 minutes`**
 
@@ -105,7 +101,7 @@ Select `Show large clock` **`On Screen Saver and Lock Screen >`**
 
 ### Keyboard
 
-Select `Turn keyboard backlight off after inactivity >` **`After 5 minutes`**
+Select `Turn keyboard backlight off after inactivity >` **`After 5 seconds`**
 
 ### Trackpad
 
