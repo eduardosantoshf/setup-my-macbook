@@ -27,9 +27,6 @@ homebrew_packages=(
   "telnet"
   "tree"
   "trash"
-  #"pdfgrep"
-  "make"
-  "screen"
 )
 
 for homebrew_package in "${homebrew_packages[@]}"; do
@@ -47,38 +44,26 @@ homebrew_cask_packages=(
   "postman"
   "notion"
   "iterm2"
-  "firefox"
-  "discord"
   "the-unarchiver"
-  "vlc"
-  "tg-pro"
-  "webtorrent"
   "spotify"
   "teamviewer"
-  "caffeine"
-  "stats"
-  "alfred"
   "stremio"
-  "kap"
-  "maccy"
   "iina"
-  "whatsapp"
-  "adobe-acrobat-reader"
-  "monitorcontrol"
-  "macs-fan-control"
+  "raycast"
+  "gray"
 )
 
 for homebrew_cask_package in "${homebrew_cask_packages[@]}"; do
   brew install --cask "$homebrew_cask_package"
 done
 
-# configure git
-git config --global user.name "Eduardo Santos"
-git config --global user.email "eduardosantoshf@gmail.com"
-
 # zsh and oh-my-zsh
 echo "Adding ZSH"
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+# configure git
+git config --global user.name "<github_username>"
+git config --global user.email "<github_email>"
 
 # Generate SSH key
 echo "Generating SSH keys..."
@@ -86,12 +71,6 @@ ssh-keygen -t rsa -C "eduardosantoshf@gmail.com"
 
 pbcopy < ~/.ssh/id_rsa.pub
 echo "Copied SSH key to clipboard - You can now add it to Github!"
-
-# to prevent git from always asking for an ssh key passphrase, run:
-eval $(ssh-agent)
-ssh-add -K ~/.ssh/id_rsa
-echo "Host *
-    UseKeychain yes" >> ~/.ssh/config
 
 # Complete
 echo "Installation Complete!"

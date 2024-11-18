@@ -4,29 +4,17 @@ This repo is used to configure a MacBook from scratch. It can serve as a guide f
 
 ℹ️ [Reset MacBook](https://9to5mac.com/2022/01/10/how-to-factory-reset-your-macbook-and-other-macs/)
 
-> **_NOTE:_**  These steps were made for macOS Monterey, it may not work with other macOS versions.
+> **_NOTE:_**  These steps were made for macOS Sequoia, it may not work with other macOS versions.
 
 ## MacBook Specifications
 
-**Model**: MacBook Pro (15-inch, 2017)
+**Model**: MacBook Air (13-inch, M3, 2024)
 
-**Processor**: 2,8 GHz Quad-Core Intel Core i7
+**Chip**: Apple M3
 
-**Memory**: 16 GB 2133 MHz LPDDR3
+**Memory**: 16 GB
 
-**Graphics**: Intel HD Graphics 630 1536 MB
-
-## Table of Contents
-
-- macOS Updates
-- System Preferences
-- Commands and Shortcuts
-- Terminal
-- Shell
-- Homebrew
-- Apps
-- Dock
-- Touch Bar not working bug
+**Storage**: 256 GB
 
 ## macOS Updates
 
@@ -36,102 +24,94 @@ When starting your mac for the first time, you should always check if there are 
 
 When setting up a mac, there are also some system preferences I like to change.
 
+### Network
+
+Turn on `Firewall`
+
+### Battery
+
+Select `Low Power Mode >` **`Only on Battery`**
+
 ### General
 
-`System Preferences > General > Appearance > Dark`
+#### Software Updates
 
-`System Preferences > General > Prefer tabs >` **`always`** `when opening documents`
+Select only **`Install Security Responses and system files`**
+
+#### AutoFill & Passwords
+
+Deselect **`AutoFill Passwords & Passkeys`** (as I use Bitwarden, for now)
 
 Uncheck `System Preferences > General > Close windows when quitting an app`
 
-`System Preferences > General > Show scroll bars: >` **`When scrolling`**
+### Appearance
 
-### Dock & Menu Bar
+Select `Appearance >` **`Dark`**
 
-`System Preferences > Dock & Menu Bar > Double-click a window's title bar to` **`minimize`**
+### Control Center
 
-`System Preferences - Dock & Menu Bar - Clock - Show Date` **`Always`**
+#### Battery
 
-Uncheck `System Preferences > Dock & Menu Bar > Show recent applications in Dock`
+Select **`Show Percentage`**
 
-Check `System Preferences > Dock & Menu Bar > Now Playing > Show in Menu Bar`
+### Desktop & Dock
 
-Check `System Preferences > Dock & Menu Bar > Minimise windows into application icon`
+#### Dock
 
-Check `System Preferences > Dock & Menu Bar > Wi-Fi > Show in Menu Bar`
+Select `Double-click a window's title bar to >` **`Minimize`**
 
-Check `System Preferences > Dock & Menu Bar > Bluetooth > Show in Menu Bar`
+Unselect `Show suggested and recent apps in Dock`
 
-Check `System Preferences > Dock & Menu Bar > Sound > Show in Menu Bar` **`always`**
+#### Desktop & Stage Manager
 
-### Mission Control
+Select `Click wallpaper to reveal desktop >` **`Only in Stage Manager`**
 
-Check `System Preferences > Mission Control > Group windows by application`
+#### Windows
 
-Uncheck `System Preferences > Mission Control > Automatically rearrange Spaces based on most recent used`
+Select `Prefer tabs when opening documents >` **`Always`**
 
-**Hot Corners:**
+Unselect `Close windows when quitting and application`
+
+#### Mission Control
+
+Select `Groupd windows by application`
+
+#### Hot Corners
 
 - Left Inferior Corner: **Launchpad**
 - Right Inferior Corner: **Lock Screen**
 
-### Displays
+### Sound
 
-`System Preferences > Displays > Resolution >` **`Scaled`**
+#### Sound Effects
 
-`System Preferences > Displays > Resolution >` **`More Space`**
+Unselect `Play sound on startup`
+
+### Lock Screen
+
+Select `Start Screen Saver when inactive >` **`For 5 minutes`**
+
+Select `Turn display off on battery when inactive >` **`For 2 minutes`**
+
+Select `Turn display off on power adapter when inactive >` **`For 10 minutes`**
+
+Select `Require password after screen saver begins or display is turned off >` **`After 5 minutes`**
+
+Select `Show large clock` **`On Screen Saver and Lock Screen >`**
 
 ### Keyboard
 
-Uncheck `System Preferences > Keyboard > Keyboard > Adjust keyboard brightness in low light`
-
-`System Preferences > Keyboard > Keyboard > Turn keyboard backlight off after` **`1 min`** `of inactivity`
-
-`System Preferences > Keyboard > Keyboard > Press fn key to` **`Show emojis & Symbols`**
-
-`System Preferences > Keyboard > Keyboard > Press and hold fn key to` **`Show F1, F2, etc. Keys`**
-
-Uncheck `System Preferences > Keyboard > Text > Correct spelling automatically`
-
-Uncheck `System Preferences > Keyboard > Text > Capitalize words automatically`
-
-Uncheck `System Preferences > Keyboard > Text > Add period with double-space`
+Select `Turn keyboard backlight off after inactivity >` **`After 5 seconds`**
 
 ### Trackpad
 
-Check `System Preferences > Trackpad > Point & Click > Look up & data detectors`
+Select **`Tap to click`** 
 
-Check `System Preferences > Trackpad > Point & Click > Secondary click`
+### Finder Settings
 
-Check `System Preferences > Trackpad > Point & Click > Tap to click`
+#### General
 
-**More Gestures**
-
-Uncheck **only** `System Preferences > Trackpad > More Gestures > Launchpad`
-
-### Security & Privacy
-
-`System Preferences > Security & Privacy > General > Require password after` **`5 seconds`** `after sleep or screen saver begins`
-
-`System Preferences > Security & Privacy > Firewall >` **`Turn On Firewall`**
-
-### Finder
-
-`Preferences > General > New Finder windows show >` **`Documents`**
-
-Check `Preferences > General >` **`Open folders in tabs instead of new windows`**
-
-Check `Preferences > Advanced >` **`Show all filename extensions`**
-
-`Preferences > Advanced > When performing a search >` **`Search the Current Folder`**
-
-Show/Hide hidden files in folders: `Command + Shift + .`
-
-Show Path Bar: `Option + Command + P`
-
-### Sound
-
-Uncheck `Preferences > Sound > Sound Effects > Play sound on startup`
+Select `New Finder windows show >` **`Downloads`**
 
 ## Commands and Shortcuts
 
@@ -289,21 +269,12 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 - postman
 - notion
 - iterm2
-- firefox
-- discord
 - the-unarchiver
-- vlc
-- tg-pro
 - webtorrent
 - spotify
 - teamviewer
-- stats
 - stremio
-- kap
 - iina
-- whatsapp
-- adobe-acrobat-reader
-- macs-fan-control
 - gray
 - raycast
 
@@ -312,16 +283,11 @@ Here are some of the brew formul*æ*s that I have (more to be added):
 These are the apps that I have currently installed on my mac. Whenever I can, I will install these apps from Homebrew.
 
 - [Endpoint Security VPN](https://supportcenter.checkpoint.com/supportcenter/portal/user/anon/page/default.psml/media-type/html?action=portlets.DCFileAction&eventSubmit_doGetdcdetails=&fileid=123070)
+- Tunnelblick
 - Spotify
-- CleanMyMac X
-- Todoist
-- Speedtest
-- Adobe Photoshop 2021
 - Slack
 - The Unarchiver
 - Visual Studio Code
-- Twitter
-- Discord
 - Messenger
 - iTerm2
 - TeamViewer
@@ -329,23 +295,15 @@ These are the apps that I have currently installed on my mac. Whenever I can, I 
 - Brave Browser
 - Postman
 - Zoom
-- Autenticação.gov
 - WhatsApp
-- VLC
 - Docker
 - MusicHarbor
 - Rectangle
-- ClickUp
-- TG Pro (control fans)
 - Spark
-- OneDrive
 - Bitwarden
 - WebTorrent
-- Firefox
-- Codye
 - Notion
 - Gray
-- Amphetamine
 
 ### Brave
 
@@ -414,7 +372,7 @@ My Visual Studio Code preferences file can be found [here](https://github.com/ed
 
 #### Color Theme
 
-Currently using **One Dark Pro Darker** color theme.
+Currently using [**One Dark Pro Darker**](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) color theme.
 
 ### Raycast
 
@@ -457,9 +415,3 @@ While Raycast itself is a closed-source application, it includes a built-in stor
 ## Dock
 
 ![Dock](images/dock.png)
-
-## Touch Bar not working bug
-
-Sometimes, if the touch bar stops working, restarting it may solve the problem:
-
-	sudo pkill TouchBarServer
