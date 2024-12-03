@@ -27,6 +27,8 @@ homebrew_packages=(
   "telnet"
   "tree"
   "trash"
+  "pyenv"
+  "pyenv-virtualenv"
 )
 
 for homebrew_package in "${homebrew_packages[@]}"; do
