@@ -337,6 +337,7 @@ On Brave, go to `Settings > Search engine > Manage search engines and site searc
 | Wook                          | -w       | https://www.wook.pt/pesquisa?keyword=%s                                       |
 | IMDb                          | -i       | https://www.imdb.com/find/?q=%s&ref_=nv_sr_sm                                 |
 | PlayStation Store Portugal    | -p       | https://store.playstation.com/pt-pt/search/%s                                 |
+| Amazon ES                     | -a       | https://www.amazon.es/s?k=%s)                                                 |
 | Google Internet  Speed Test   | s        | https://www.google.com/search?q=speedtest&sca_esv=426d1894efaa3de5&sca_upv=1&sxsrf=ADLYWIKmu8KNlSes7Av8xbbCytRXEBCk1w%3A1726748266383&ei=ahbsZqX9FruZkdUPlKC1-Qc&ved=0ahUKEwil2qLI_s6IAxW7TKQEHRRQLX8Q4dUDCA8&uact=5&oq=speedtest&gs_lp=Egxnd3Mtd2l6LXNlcnAiCXNwZWVkdGVzdDIKECMYgAQYJxiKBTIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESO4IUJEDWOMFcAF4AZABAJgBmgGgAYECqgEDMC4yuAEDyAEA-AEBmAIDoAKVAsICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIQEC4YgAQY0QMYQxjHARiKBZgDAIgGAZAGCpIHAzEuMqAHig4&sclient=gws-wiz-serp |
 
 ### VS Code
