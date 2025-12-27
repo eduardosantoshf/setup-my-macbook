@@ -226,6 +226,22 @@ vim ~/.vimrc
 
 ****[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)****
 
+### Fastfetch
+
+[Fastfetch](https://github.com/fastfetch-cli/fastfetch?tab=readme-ov-file) is a neofetch-like tool for fetching system information and displaying it in a visually appealing way.
+
+To configure it, run:
+
+```bash
+brew install fastfetch
+```
+
+And then add this line to the `.zshrc` file:
+
+```bash
+fastfetch
+```
+
 ### `ls` Command
 
 Instead of `ls`, I use [eza](https://github.com/eza-community/eza) with [catppuccin-macchiato](https://github.com/eza-community/eza-themes/blob/main/themes/catppuccin-macchiato.yml) theme. 
