@@ -187,7 +187,7 @@ All my iTerm2 color presets can be found [here](https://github.com/eduardosantos
 
 ### Font
 
-The font I use is **Fira Code**.
+The font I use is **Fira Code** with size **16**.
 
 ## Shell
 
@@ -226,7 +226,24 @@ vim ~/.vimrc
 
 ****[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)****
 
-## Homebrew
+### `ls` Command
+
+Instead of `ls`, I use [eza](https://github.com/eza-community/eza) with `dracula` theme. 
+To setup **eza**, first we need to add an alias to the `.zshrc` file:
+
+```bash
+alias ls='eza'
+```
+
+Now, we can use the default theme, or use one from the official [eza-themes](https://github.com/eza-community/eza-themes) repo (or we can create our own theme). To to this, choose the theme you want and save it inside `/Users/eduardosantos/.config/eza` (if the `eza` folder doesn't exist, create it). 
+
+Finally, run:
+
+```bash
+export EZA_CONFIG_DIR=/Users/eduardosantos/.config/eza
+```
+
+# Homebrew
 
 [Homebrew](https://brew.sh/) is a free and open-source software package management system that simplifies the installation of software on Apple's operating system, macOS, as well as Linux. 
 
