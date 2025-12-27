@@ -187,7 +187,7 @@ All my iTerm2 color presets can be found [here](https://github.com/eduardosantos
 
 ### Font
 
-The font I use is **Fira Code** with size **16**.
+The font I use is **Fira Code Nerd Light** with size **15**.
 
 ## Shell
 
@@ -232,15 +232,22 @@ Instead of `ls`, I use [eza](https://github.com/eza-community/eza) with `dracula
 To setup **eza**, first we need to add an alias to the `.zshrc` file:
 
 ```bash
-alias ls='eza'
+alias ls='eza --icons'
 ```
 
 Now, we can use the default theme, or use one from the official [eza-themes](https://github.com/eza-community/eza-themes) repo (or we can create our own theme). To to this, choose the theme you want and save it inside `/Users/eduardosantos/.config/eza` as `theme.yml` (if the `eza` folder doesn't exist, create it). 
 
-Finally, run:
+Finally, add this line to the `.zshrc` file:
 
 ```bash
 export EZA_CONFIG_DIR=/Users/eduardosantos/.config/eza
+```
+
+As `LS_COLORS` and `EZA_COLORS` take precedence over the theme file, make sure to unset them when using a theme file by adding this to the `.zshrc` file:
+
+```bash
+unset LS_COLORS
+unset EZA_COLORS
 ```
 
 # Homebrew
