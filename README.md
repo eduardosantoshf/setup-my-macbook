@@ -242,7 +242,11 @@ And then add this line to the `.zshrc` file:
 fastfetch
 ```
 
-### `ls` Command
+Now, whenever the terminal starts, it will display something like this:
+
+![Fastfetch](images/fastfetch.png)
+
+### eza
 
 Instead of `ls`, I use [eza](https://github.com/eza-community/eza) with [catppuccin-macchiato](https://github.com/eza-community/eza-themes/blob/main/themes/catppuccin-macchiato.yml) theme. 
 To setup **eza**, first we need to add an alias to the `.zshrc` file:
