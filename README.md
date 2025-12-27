@@ -235,7 +235,7 @@ To setup **eza**, first we need to add an alias to the `.zshrc` file:
 alias ls='eza'
 ```
 
-Now, we can use the default theme, or use one from the official [eza-themes](https://github.com/eza-community/eza-themes) repo (or we can create our own theme). To to this, choose the theme you want and save it inside `/Users/eduardosantos/.config/eza` (if the `eza` folder doesn't exist, create it). 
+Now, we can use the default theme, or use one from the official [eza-themes](https://github.com/eza-community/eza-themes) repo (or we can create our own theme). To to this, choose the theme you want and save it inside `/Users/eduardosantos/.config/eza` as `theme.yml` (if the `eza` folder doesn't exist, create it). 
 
 Finally, run:
 
