@@ -228,7 +228,7 @@ vim ~/.vimrc
 
 ### `ls` Command
 
-Instead of `ls`, I use [eza](https://github.com/eza-community/eza) with `dracula` theme. 
+Instead of `ls`, I use [eza](https://github.com/eza-community/eza) with [catppuccin-macchiato](https://github.com/eza-community/eza-themes/blob/main/themes/catppuccin-macchiato.yml) theme. 
 To setup **eza**, first we need to add an alias to the `.zshrc` file:
 
 ```bash
